@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-14T15:28:56 IST" name="Default suite" finished-at="2023-07-14T15:30:05 IST" duration-ms="68867">
+    <groups>
+    </groups>
+    <test started-at="2023-07-14T15:28:56 IST" name="Default test" finished-at="2023-07-14T15:30:05 IST" duration-ms="68867">
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements@57fae983]" started-at="2023-07-14T15:28:56 IST" name="setup" finished-at="2023-07-14T15:29:08 IST" duration-ms="12158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="browse_Verify_PLP_Elements()[pri:0, instance:com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements@57fae983]" started-at="2023-07-14T15:29:08 IST" name="browse_Verify_PLP_Elements" finished-at="2023-07-14T15:30:04 IST" duration-ms="56153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse_Verify_PLP_Elements -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements@57fae983]" started-at="2023-07-14T15:30:05 IST" name="tearDown" finished-at="2023-07-14T15:30:05 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

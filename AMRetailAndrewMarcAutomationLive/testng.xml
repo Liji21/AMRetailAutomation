@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.AMRetailAndrewMarcAutomationScript.pageObjects.BaseClass"/>
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.Browse_Verify_PLP_Elements"/>
+      
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.MyAccountPageLinksDisplay"/>
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.Createaccount_Login_Logout_Functionality"/>
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.PDPPage_Minicart_Shoppingcart_Display"/>
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.Homepage_Elements_Display"/>
+      <class name="com.AMRetailAndrewMarcAutomationScript.testCases.Checkout_Sections_Functionality"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
